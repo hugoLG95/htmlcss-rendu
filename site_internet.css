@@ -44,25 +44,49 @@ body {
  margin: 70px ;
  color: aliceblue;
  display: flex;
+ font-size: 20px;
 }
 
 .poudlard{
-    width: 800px;
+  text-align: center;
+  width: 1100px;
     height: px;
-    margin: 70px;
+    margin-left: 200px;
 }
 
 p{
-    text-align: right;
-    color: aliceblue;
-    margin-right: 300px ;
-    margin-top: 500px;
-    
-    
-}
+  margin: 150px ;
+  color: aliceblue;
+  display: flex;
+  font-size: 30px;
+  text-align: center;
+ }
 
 #titre{
     text-align: left;
-    margin: 40px;
-    margin-left: 70px;
+    margin: 65px;
+      }
+
+.fond_footer {
+text-align: center;
+background-image: url(https://w.forfun.com/fetch/41/4139f09319f4a482add91b935159c735.jpeg);
+height: 120px;
+margin-bottom: -70px;
+
+
+}
+
+#h2_footer{
+text-align: center;
+
+color: rgb(255, 255, 255);
+padding: px;
+}
+
+footer{
+  padding-top: 10%;
+}
+
+header{
+  padding-bottom: 5%;
 }
